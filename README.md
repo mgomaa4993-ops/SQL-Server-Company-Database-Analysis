@@ -75,6 +75,31 @@ This project demonstrates SQL Server database analysis using a Company Database.
 - Company.bak
 
 ---
+## 📝 Sample Queries
+
+### Top Highest Paid Employees
+
+```sql
+SELECT TOP 5 *
+FROM Employee
+ORDER BY Salary DESC;
+```
+
+### Average Salary by Department
+
+```sql
+SELECT Dnum, AVG(Salary)
+FROM Employee
+GROUP BY Dnum;
+```
+
+### Employee Count by Department
+
+```sql
+SELECT Dnum, COUNT(*)
+FROM Employee
+GROUP BY Dnum;
+```
 
 ## 👨‍💻 Author
 
