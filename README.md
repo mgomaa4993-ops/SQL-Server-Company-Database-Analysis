@@ -120,4 +120,4 @@ GROUP BY Dnum;
 
 Mahmoud Gomaa
 
-Aspiring Data Analyst | SQL | Python | Power BI
+Aspiring Data Analyst | SQL | Python | Power BI | Excel
