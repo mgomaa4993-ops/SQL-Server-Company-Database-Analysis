@@ -23,6 +23,21 @@ This project demonstrates SQL Server database analysis using a Company Database.
 
 ---
 
+## 🔑 Key SQL Concepts Used
+
+- Data Retrieval (SELECT)
+- Filtering (WHERE, BETWEEN, IN, LIKE)
+- Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
+- GROUP BY and HAVING
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL JOIN
+- NULL Handling
+- Sorting and Ranking
+
+---
+
 ## 📊 SQL Skills Demonstrated
 
 ### Data Retrieval
